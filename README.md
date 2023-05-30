@@ -1,4 +1,4 @@
-# Basic_Patient-Portal-PHP-MySQL
+# Basic_Doctor_Patient-Portal-PHP-MySQL-CSS
 
 Basic Patient Portal is an online platform designed to enhance the communication and engagement between healthcare providers and their patients. It serves as a secure gateway for patients to access their personal health information, interact with their healthcare providers, and manage various aspects of their healthcare journey.
 
